@@ -1,0 +1,7 @@
+<transaction>
+    <id>5001</id>
+    <accountNumber>123456789</accountNumber>
+    <transactionType>Deposit</transactionType>
+    <amount>1000.00</amount>
+    <date>2025-02-06</date>
+</transaction>

@@ -1,7 +1,7 @@
 {
-    "id": 1001,
-    "name": "Wireless Mouse",
+    "id": 1,
+    "name": "Wireless Headphones",
+    "price": 59.99,
     "category": "Electronics",
-    "price": 25.99,
     "availability": "In Stock"
 }

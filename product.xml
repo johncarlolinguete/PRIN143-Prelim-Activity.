@@ -1,7 +1,7 @@
 <product>
-    <id>1001</id>
-    <name>Wireless Mouse</name>
+    <id>001</id>
+    <name>Wireless Headphones</name>
+    <price>59.99</price>
     <category>Electronics</category>
-    <price>25.99</price>
     <availability>In Stock</availability>
 </product>

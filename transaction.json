@@ -1,0 +1,7 @@
+{
+    "id": 5001,
+    "accountNumber": "123456789",
+    "transactionType": "Deposit",
+    "amount": 1000.00,
+    "date": "2025-02-06"
+}

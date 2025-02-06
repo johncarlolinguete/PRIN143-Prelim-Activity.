@@ -1,0 +1,7 @@
+<student>
+    <id>20231001</id>
+    <name>John Doe</name>
+    <program>Computer Science</program>
+    <yearLevel>3</yearLevel>
+    <gpa>3.5</gpa>
+</student>
